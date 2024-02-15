@@ -62,7 +62,7 @@ namespace HotelAppBusiness
         private void SendEmail(BookingAddLstDTO vBookingAddLst)
         {
             string remitente = "danny_544@hotmail.com";            
-            string contraseña = "torres2552danny";
+            string contraseña = "";
 
             
             string destinatario = "einer.torres@hotmail.com";            
